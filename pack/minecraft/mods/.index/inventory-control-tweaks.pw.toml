@@ -1,0 +1,14 @@
+name = "Inventory Control Tweaks"
+filename = "inventory-control-tweaks-1.3.27+MC1.20-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sPYwFCE0/versions/ELAXQHOt/inventory-control-tweaks-1.3.27%2BMC1.20-1.20.1.jar"
+hash-format = "sha512"
+hash = "4b2e8882c3c8a9ba4f15bc004335153db502188e638e17bbbc8f3f713cbeb0b2dba29df67bfd7863c277c6851377f7edd89167ea95fd19567b8e314673ce4b18"
+
+[update]
+[update.modrinth]
+mod-id = "sPYwFCE0"
+version = "ELAXQHOt"
