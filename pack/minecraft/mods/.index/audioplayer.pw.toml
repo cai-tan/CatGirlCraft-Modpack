@@ -1,0 +1,13 @@
+filename = 'audioplayer-fabric-1.20.1-1.8.9.jar'
+name = 'AudioPlayer'
+side = 'server'
+
+[download]
+hash = 'afc19b9187a7e4f17e814303f8235556bdb5c0cd7f3b42f5bef28479b0c697b60c3c77e812d167de304594ca4e2884eaf0287bee23b6eee9e4eac931a739a2b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SRlzjEBS/versions/hDi749ai/audioplayer-fabric-1.20.1-1.8.9.jar'
+
+[update.modrinth]
+mod-id = 'SRlzjEBS'
+version = 'hDi749ai'

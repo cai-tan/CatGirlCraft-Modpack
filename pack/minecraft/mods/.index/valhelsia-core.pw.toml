@@ -1,0 +1,13 @@
+filename = 'valhelsia_core-fabric-1.20.1-1.1.1.jar'
+name = 'Valhelsia Core'
+side = 'both'
+
+[download]
+hash = 'ce04301b32ce2d078ea9ee47dfed8d821e3d9aa53429b4dfc6eea7dbb85ebb5a887581c7628bc251f60d067979ca010fa1594ba94a4eb2bacab33e5cb54bd6d9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HsdNFinx/versions/eWH7WT4F/valhelsia_core-fabric-1.20.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'HsdNFinx'
+version = 'eWH7WT4F'

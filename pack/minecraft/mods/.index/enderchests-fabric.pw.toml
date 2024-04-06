@@ -1,0 +1,13 @@
+filename = 'enderchests-fabric-1.20.1-1.2.jar'
+name = 'EnderChests [Fabric]'
+side = 'both'
+
+[download]
+hash = '8b6fb9eb07e4efe57f589f7fe98e08f0848817d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4841887
+project-id = 564584

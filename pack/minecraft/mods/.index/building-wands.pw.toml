@@ -1,0 +1,13 @@
+filename = 'BuildingWands-mc1.20.1-2.6.9-release.jar'
+name = 'Building Wands'
+side = 'both'
+
+[download]
+hash = '6d1e759980862845dff04c2f849b920e931abf4e5baa4ea6283d681cd789320cb849d48ec3a0c0d26d490f4da1b73b60f651d70679235b3d13005391afb344da'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XkisZUfp/versions/mLBi7a8x/BuildingWands-mc1.20.1-2.6.9-release.jar'
+
+[update.modrinth]
+mod-id = 'XkisZUfp'
+version = 'mLBi7a8x'

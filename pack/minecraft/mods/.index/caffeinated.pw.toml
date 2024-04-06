@@ -1,0 +1,13 @@
+filename = 'caffeinated-1.0.3.jar'
+name = 'Caffeinated'
+side = 'both'
+
+[download]
+hash = '8a695064659d50e869c49ef8d1ffa83512efed63'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4659359
+project-id = 835826
