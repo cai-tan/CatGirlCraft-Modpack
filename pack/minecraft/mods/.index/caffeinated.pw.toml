@@ -1,13 +1,14 @@
-filename = 'caffeinated-1.0.3.jar'
-name = 'Caffeinated'
-side = 'both'
+name = "Caffeinated"
+filename = "caffeinated-1.0.3.jar"
+side = "both"
 
 [download]
-hash = '8a695064659d50e869c49ef8d1ffa83512efed63'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = "url"
+url = "https://cdn.modrinth.com/data/AL5TqUKj/versions/DafXNyQN/caffeinated-1.0.3.jar"
+hash-format = "sha512"
+hash = "0518ca2542da2855ef5df0d420bb71c385ab64a1d6ce2b46390f839f7c5643ff968b84a9ed4addd5ebce889c931e314ed52d376f1149ab1f7642119dd46399f5"
 
-[update.curseforge]
-file-id = 4659359
-project-id = 835826
+[update]
+[update.modrinth]
+mod-id = "AL5TqUKj"
+version = "DafXNyQN"
