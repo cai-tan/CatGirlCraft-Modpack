@@ -1,13 +1,14 @@
-filename = 'JourneyPAC-fabric-1.20.1-1.1.5.jar'
-name = 'JourneyPAC'
-side = 'client'
+name = "JourneyPAC"
+filename = "JourneyPAC-fabric-1.20.1-1.1.6.jar"
+side = "both"
 
 [download]
-hash = 'b3b9e156f68268d6f1150abdffa0ecaaee4627bcd2099d702ff9a3bbaca36f06010cb2075ab61b6874ad5e3a62a7b491f107590b86f54de11c2dbbd454aee652'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/UUErFmkX/versions/BhWR6yLg/JourneyPAC-fabric-1.20.1-1.1.5.jar'
+mode = "url"
+url = "https://cdn.modrinth.com/data/UUErFmkX/versions/LkvhAe8b/JourneyPAC-fabric-1.20.1-1.1.6.jar"
+hash-format = "sha512"
+hash = "963ec613115643e9991b4a03cda36ab142e88fcf3e7aa899a8ebdd263acf1f4714d20d20d20b84a40d9fd0a36179e1e04448597d343bdba76ce8c3be772d4028"
 
+[update]
 [update.modrinth]
-mod-id = 'UUErFmkX'
-version = 'BhWR6yLg'
+mod-id = "UUErFmkX"
+version = "LkvhAe8b"
