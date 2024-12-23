@@ -1,14 +1,14 @@
 name = "BotanyPots"
-filename = "BotanyPots-Fabric-1.20.1-13.0.29.jar"
+filename = "BotanyPots-Fabric-1.20.1-13.0.40.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/U6BUTZ7K/versions/oFmC37mH/BotanyPots-Fabric-1.20.1-13.0.29.jar"
+url = "https://cdn.modrinth.com/data/U6BUTZ7K/versions/ThzwHGyG/BotanyPots-Fabric-1.20.1-13.0.40.jar"
 hash-format = "sha512"
-hash = "cbcfeefdae30717044913437a58065221d2964dcaa35563c2dfcae2e6ea50c98097ade69241a49d16b188e1d6e5c10a322f982a2b486d8dd3bd3504e41f1f84b"
+hash = "6b78a58cb8b04a7b2aadcb236683df09b98cc6eaa2fe471cacd87a8162054becd1fc0b81f7691415c4935945c643b65d0fdfdcbb342b0bd356553699611aa4b7"
 
 [update]
 [update.modrinth]
 mod-id = "U6BUTZ7K"
-version = "oFmC37mH"
+version = "ThzwHGyG"

@@ -1,13 +1,14 @@
-filename = 'BuildingWands-mc1.20.1-2.6.9-release.jar'
-name = 'Building Wands'
-side = 'both'
+name = "Building Wands"
+filename = "BuildingWands-mc1.20.1-2.7-fabric-beta.jar"
+side = "both"
 
 [download]
-hash = '6d1e759980862845dff04c2f849b920e931abf4e5baa4ea6283d681cd789320cb849d48ec3a0c0d26d490f4da1b73b60f651d70679235b3d13005391afb344da'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/XkisZUfp/versions/mLBi7a8x/BuildingWands-mc1.20.1-2.6.9-release.jar'
+mode = "url"
+url = "https://cdn.modrinth.com/data/XkisZUfp/versions/PQJ3mk6U/BuildingWands-mc1.20.1-2.7-fabric-beta.jar"
+hash-format = "sha512"
+hash = "89bf67e4e7275b5d2285ac464fad4ec940395e6df82a03c169b9160aaebea0d86e05ab86ec19b9f04a4c584b6ab6a0cf112b139cb93553543f106b7ebf363305"
 
+[update]
 [update.modrinth]
-mod-id = 'XkisZUfp'
-version = 'mLBi7a8x'
+mod-id = "XkisZUfp"
+version = "PQJ3mk6U"
