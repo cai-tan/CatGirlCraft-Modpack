@@ -1,14 +1,16 @@
-name = "Chat Heads"
-filename = "chat_heads-0.13.7-fabric-1.20.jar"
-side = "both"
+filename = 'chat_heads-0.13.17-neoforge-1.21.jar'
+name = 'Chat Heads'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/fKY4vKuA/chat_heads-0.13.7-fabric-1.20.jar"
-hash-format = "sha512"
-hash = "7599760e99c7e7e987377d78c5b866640dc44cc0ddceaa62fcd34b171ec7a351f704eed608040929bbae8f3af6f612b944ca4b0be4a7bb58544b6463e38f857d"
+hash = '0864a286cc869c20a6f76e4958706b272d7c32d70cf36d23b5697dc3515100913b655745c9492facc61eac54a428e3a156a3d0ee7a58a56a1acedc08a5722fe8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/gm2ki2kd/chat_heads-0.13.17-neoforge-1.21.jar'
 
-[update]
 [update.modrinth]
-mod-id = "Wb5oqrBJ"
-version = "fKY4vKuA"
+mod-id = 'Wb5oqrBJ'
+version = 'gm2ki2kd'

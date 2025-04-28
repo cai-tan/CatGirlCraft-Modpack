@@ -1,14 +1,16 @@
-name = "Polymorph"
-filename = "polymorph-fabric-0.49.8+1.20.1.jar"
-side = "both"
+filename = 'polymorph-neoforge-1.0.10+1.21.1.jar'
+name = 'Polymorph'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/z88tNWJh/polymorph-fabric-0.49.8%2B1.20.1.jar"
-hash-format = "sha512"
-hash = "3c748498e96c4c8858bff61fb76732d58f10fa551db2a4ab7272851be392a0690a4ec10ad0fa8395925642004c3b656e8bb66e51b7b6ede2f9ad651895394d55"
+hash = '455ff2f8f44b016beaf00b9b5a7d0f53be6cf8b773c2e0651945f099a4b853ec67682dc16e0544444df00d1acb3444a6f6df703073eedc0ba130bb73c6759bb7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tagwiZkJ/versions/Ac1c8Jlj/polymorph-neoforge-1.0.10%2B1.21.1.jar'
 
-[update]
 [update.modrinth]
-mod-id = "tagwiZkJ"
-version = "z88tNWJh"
+mod-id = 'tagwiZkJ'
+version = 'Ac1c8Jlj'

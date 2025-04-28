@@ -1,14 +1,16 @@
-name = "Supplementaries"
-filename = "supplementaries-1.20-3.1.10-fabric.jar"
-side = "both"
+filename = 'supplementaries-1.21-3.1.7-neoforge.jar'
+name = 'Supplementaries'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/SFY0zXug/supplementaries-1.20-3.1.10-fabric.jar"
-hash-format = "sha512"
-hash = "2c0c2308d917818c1bc177fe1ae1028e3878c992842ddaa9e1dad306e59b280a2af9c09834ac059c6cf8c30dbea037c16fb2686afdfc990e6de971b1db7cc8f0"
+hash = '5350922be0d8255942aa1c3bd1e9339f4b426b9f7918b8f988b208803bc81edbd4b37a70ea1cb9edc714c774b20b841e4c45d0d0ec10a88b03a793c441106ba9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/MidHHWlX/supplementaries-1.21-3.1.7-neoforge.jar'
 
-[update]
 [update.modrinth]
-mod-id = "fFEIiSDQ"
-version = "SFY0zXug"
+mod-id = 'fFEIiSDQ'
+version = 'MidHHWlX'

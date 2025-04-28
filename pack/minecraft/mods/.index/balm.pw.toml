@@ -1,14 +1,16 @@
-name = "Balm"
-filename = "balm-fabric-1.20.1-7.3.10.jar"
-side = "both"
+filename = 'balm-neoforge-1.21.1-21.0.41.jar'
+name = 'Balm'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/SdRZPngG/balm-fabric-1.20.1-7.3.10.jar"
-hash-format = "sha512"
-hash = "e46647572e2fcbe6c0a3006016c5d104c35d23849707ea6c1d1af1b98c6335dc3d6c845ed720a309b4c5cd37a137a1c3ef9e5ca535cfeb991f844de602a1fd24"
+hash = 'e2149b5df7d13bdc3a9e6d956333b1e623a9c2bbb4f0e47fd9a8bc54ff686921264d7439065c8e51a2805c79f8f42913f1436058cbb29c92dc9ab17623150b0c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MBAkmtvl/versions/RDQPXjgQ/balm-neoforge-1.21.1-21.0.41.jar'
 
-[update]
 [update.modrinth]
-mod-id = "MBAkmtvl"
-version = "SdRZPngG"
+mod-id = 'MBAkmtvl'
+version = 'RDQPXjgQ'

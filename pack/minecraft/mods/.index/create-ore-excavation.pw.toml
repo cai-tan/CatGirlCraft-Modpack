@@ -1,14 +1,16 @@
-name = "Create Ore Excavation"
-filename = "createoreexcavation-fabric-1.20-1.5.4.jar"
-side = "both"
+filename = 'createoreexcavation-1.21-1.6.3.jar'
+name = 'Create Ore Excavation'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/ResbpANg/versions/O48L7huv/createoreexcavation-fabric-1.20-1.5.4.jar"
-hash-format = "sha512"
-hash = "8690a12261bee7db1b75fe34148fa49fdd7d18ffe9ade97ea0273b3e5a1481ad53c1b015173032d884fa93f62831d24bfb04b89e32230abfeea19383bee89490"
+hash = '86d52040eb770258647c30b5a8e499a63d1bd455eb9148bfe35d157c4232eb5f9c1cab6a56e5808cbd05d26d5fcf3b3d54a7878a89e6ccf9e784572a365ca00a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ResbpANg/versions/6uJaRyzT/createoreexcavation-1.21-1.6.3.jar'
 
-[update]
 [update.modrinth]
-mod-id = "ResbpANg"
-version = "O48L7huv"
+mod-id = 'ResbpANg'
+version = '6uJaRyzT'

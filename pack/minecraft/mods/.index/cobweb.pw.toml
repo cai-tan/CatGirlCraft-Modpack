@@ -1,14 +1,16 @@
-name = "Cobweb"
-filename = "cobweb-fabric-1.20.1-1.0.0.jar"
-side = "both"
+filename = 'cobweb-neoforge-1.21-1.3.3.jar'
+name = 'Cobweb'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/dQcfqGbl/versions/AyWecby3/cobweb-fabric-1.20.1-1.0.0.jar"
-hash-format = "sha512"
-hash = "ceab60100b0007faf5e0e3b2b0412a5846dfef747542ea9b19fa7e26931a888c36fcfbfab63a9e4c7e71320056177f5a07bd2640a185e112363c6e4f5d777456"
+hash = '4ae56b7ab29c4baeb6312783196efc66753f059765cd2433c2176da6c7d3aa42883ba040f271268dadbccb38056716c12ae1104502f1f41d7ea7d01dedf0d2b1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dQcfqGbl/versions/O4TVCiim/cobweb-neoforge-1.21-1.3.3.jar'
 
-[update]
 [update.modrinth]
-mod-id = "dQcfqGbl"
-version = "AyWecby3"
+mod-id = 'dQcfqGbl'
+version = 'O4TVCiim'

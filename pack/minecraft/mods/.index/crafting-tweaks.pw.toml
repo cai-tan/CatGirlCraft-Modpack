@@ -1,14 +1,16 @@
-name = "Crafting Tweaks"
-filename = "craftingtweaks-fabric-1.20.1-18.2.5.jar"
-side = "both"
+filename = 'craftingtweaks-neoforge-1.21.1-21.1.5.jar'
+name = 'Crafting Tweaks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/bss6C81q/craftingtweaks-fabric-1.20.1-18.2.5.jar"
-hash-format = "sha512"
-hash = "205d107cfefa835fbd72e19e4e28c6cba67679d05289de66cea27f94d0958575ac63c50bc24c5dd88a65d68f0f7a50748b9f9a5561b90bfa1e73080b666b646d"
+hash = '8f3c6bca80d15fa2b64165d14f20da65ca0be38d1a779278668fcc4f9da982ed0fad60c5157d84f745c7e2e3c284659d731729c7ea8bac9746c407b7037eb8c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DMu0oBKf/versions/uFQrAvJM/craftingtweaks-neoforge-1.21.1-21.1.5.jar'
 
-[update]
 [update.modrinth]
-mod-id = "DMu0oBKf"
-version = "bss6C81q"
+mod-id = 'DMu0oBKf'
+version = 'uFQrAvJM'

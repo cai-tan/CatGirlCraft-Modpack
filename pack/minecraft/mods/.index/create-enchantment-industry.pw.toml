@@ -1,0 +1,16 @@
+filename = 'create-enchantment-industry-2.0.13.jar'
+name = 'Create: Enchantment Industry'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2bc73703077c122045465b28663081f83df5245e4bfa2e8151975fa8df64a7203167df3f32e22440ac65b469a81ca5b49fad5f380219fdbe7679fa8cbf60ae4e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JWGBpFUP/versions/Mrkfh7lW/create-enchantment-industry-2.0.13.jar'
+
+[update.modrinth]
+mod-id = 'JWGBpFUP'
+version = 'Mrkfh7lW'

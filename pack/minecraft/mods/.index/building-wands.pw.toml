@@ -1,14 +1,16 @@
-name = "Building Wands"
-filename = "BuildingWands-mc1.20.1-2.7-fabric-beta.jar"
-side = "both"
+filename = 'BuildingWands-neoforge-MC1.21-2.8.3.jar'
+name = 'Building Wands'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/XkisZUfp/versions/PQJ3mk6U/BuildingWands-mc1.20.1-2.7-fabric-beta.jar"
-hash-format = "sha512"
-hash = "89bf67e4e7275b5d2285ac464fad4ec940395e6df82a03c169b9160aaebea0d86e05ab86ec19b9f04a4c584b6ab6a0cf112b139cb93553543f106b7ebf363305"
+hash = 'f2dc73c19df9134b4dcb08fe18a5bd16148c9edeed0bf1ee0f6363c12214dd97fafd6bb3327c5290b6a3568a82ddb4b9aef50c35c9b2cf39fe51c3e9ad609321'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XkisZUfp/versions/iKfvtXOj/BuildingWands-neoforge-MC1.21-2.8.3.jar'
 
-[update]
 [update.modrinth]
-mod-id = "XkisZUfp"
-version = "PQJ3mk6U"
+mod-id = 'XkisZUfp'
+version = 'iKfvtXOj'

@@ -1,13 +1,16 @@
-filename = 'supermartijn642configlib-1.1.8a-fabric-mc1.20.jar'
+filename = 'supermartijn642configlib-1.1.8-neoforge-mc1.21.jar'
 name = "SuperMartijn642's Config Lib"
 side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'bccd2d3e55a70c7d4c1aedaa9e85d6d0039e982ebdab40bc2aeba4b27a5112859f7a05c342c3c9575ff5d8ced769d1feffb104ecdd4d19cac8afba9ea2017c52'
+hash = '768d8ca178c5e653986f5131b7aeb7fa57ce7d32c16ed399ced01b273565a2b640130c55c7092747efeff40dbb0348876b18b415f59b0d16dd2c7f32f1798ce2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar'
+url = 'https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar'
 
 [update.modrinth]
 mod-id = 'LN9BxssP'
-version = 'Ur02nrUT'
+version = 'qKL9jM75'

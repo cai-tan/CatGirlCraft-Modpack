@@ -1,0 +1,8 @@
+version:3955
+narrator:0
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:mods_dynamic_assets","file/CatGirlCraft","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:[]
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
+key_key.journeymap.create_waypoint:key.keyboard.unknown
+key_key.journeymap.fullscreen_waypoints:key.keyboard.n
+key_key.voice_chat:key.keyboard.v
