@@ -1,4 +1,4 @@
-filename = 'create-classic-blaze-enchanter-1.1.1.jar'
+filename = 'create-classic-blaze-enchanter-1.1.3.jar'
 name = 'Create: Classic Blaze Enchanter'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1db67e722f53fd0402aa04e038567a59dfc279687fe7fe7dccf8d14f2c86fbe7804e29a3e05675b5529b4b97f6770aa68c96a13cd55e35cc95588bee94c89ae3'
+hash = '127fdead95f68b0934e5c49dd974adc1ff01fed406af8a8df7126363dd24d8364aa074c14bf4f0faf05965e2bf8f624bc39c9f98b4b8ff06a6203208dd2f179d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/DezW5mUP/versions/UxQhNXvV/create-classic-blaze-enchanter-1.1.1.jar'
+url = 'https://cdn.modrinth.com/data/DezW5mUP/versions/ahwJidLl/create-classic-blaze-enchanter-1.1.3.jar'
 
 [update.modrinth]
 mod-id = 'DezW5mUP'
-version = 'UxQhNXvV'
+version = 'ahwJidLl'

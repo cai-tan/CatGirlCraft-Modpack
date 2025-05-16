@@ -1,4 +1,4 @@
-filename = 'create-dragons-plus-1.4.0.jar'
+filename = 'create-dragons-plus-1.5.0.jar'
 name = 'Create: Dragons Plus'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = 'acf158a075a9cfd9df1a6815ebbf851c1ed416dbf6cbab48c9327f8c77910b8015af49ec44aa5292d1be5657e5ed07df247176c792877774284e8d99d39c5e2f'
+hash = 'bb9d980a407b1f4b60877d3c296d701cbc43b07787eb32117fadb226a67963a2f7470f7a8090d92611c13080c7c7c7541638df295d88786e190850d5d2f34372'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/dzb1a5WV/versions/GuVEToSL/create-dragons-plus-1.4.0.jar'
+url = 'https://cdn.modrinth.com/data/dzb1a5WV/versions/QAkcIInS/create-dragons-plus-1.5.0.jar'
 
 [update.modrinth]
 mod-id = 'dzb1a5WV'
-version = 'GuVEToSL'
+version = 'QAkcIInS'
