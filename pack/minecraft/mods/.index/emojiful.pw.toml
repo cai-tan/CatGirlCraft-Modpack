@@ -1,0 +1,16 @@
+filename = 'Emojiful-Neoforge-1.21-5.2.0-all.jar'
+name = 'Emojiful'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '073bb582380c19c66f3cdb1cefa8c227000a9654b44ebbcbc22f9f96e0a36270f6fcae45639140da3fb0a00f5043c3ce018bde50c21b7c89e5f503dcb7a33aab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/72GXx2MO/versions/gxciTwyM/Emojiful-Neoforge-1.21-5.2.0-all.jar'
+
+[update.modrinth]
+mod-id = '72GXx2MO'
+version = 'gxciTwyM'
