@@ -1,4 +1,4 @@
-filename = 'sort_it_out-neoforge-1.1.1+1.21.1.jar'
+filename = 'sort_it_out-neoforge-1.1.2+1.21.1.jar'
 name = 'Sort It Out!'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '7ca03742959d7f7ceb67df725224c31f32bbb4a60fbd02a59c6d38616bd19f11dd9b61b1b8d4ca57e0bb44a08da0781ea43f13f6a706ab06f0aaeb9d233e233b'
+hash = '5eff83a0c1dd9c7af0a7e8764fe0bfcd451693a0dcd5d9f46a0d6dbdd2ea0011ca104f1121ab4c04f5b993559d183b37dd28ac967488e052adbb8e2e9a8ea44d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/jcOSOvm1/versions/GUOn5o7M/sort_it_out-neoforge-1.1.1%2B1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/jcOSOvm1/versions/EzmqrUmV/sort_it_out-neoforge-1.1.2%2B1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'jcOSOvm1'
-version = 'GUOn5o7M'
+version = 'EzmqrUmV'
